@@ -82,7 +82,8 @@ int main() {
 }
 ```
 # OUTPUT
-![image](https://github.com/user-attachments/assets/7b96cabc-c9fc-4bd9-8841-511510d7db7e)
+![image](https://github.com/user-attachments/assets/a5794fd4-5471-4847-9338-d7d3bf8ba023)
+
 
 
 # RESULT
